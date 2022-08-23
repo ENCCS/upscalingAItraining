@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = "Upscaling AI workflows"
+project = "Upscaling AI Training"
 copyright = "2022, Hossein Ehteshami and individual contributors."
 author = "Hossein Ehteshami"
 github_user = "ENCCS"
