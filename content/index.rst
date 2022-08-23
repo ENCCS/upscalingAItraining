@@ -67,7 +67,7 @@ practical advice.
 
 See also
 --------
-`TensorFlow<https://www.tensorflow.org/api_docs/python/tf>`_ and `Horovorod<https://horovod.readthedocs.io/en/stable/>`_ 
+`TensorFlow <https://www.tensorflow.org/api_docs/python/tf>`_ and `Horovorod <https://horovod.readthedocs.io/en/stable/>`_ 
 documentation are also good sources of learning about commands and their proper use.
 
 Credits
